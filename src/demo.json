@@ -1,0 +1,626 @@
+[
+  {
+    "code": "en",
+    "name": "Английский",
+    "names": [
+      "James Smith",
+      "Emily Johnson",
+      "Michael Brown",
+      "Jessica Davis",
+      "William Miller",
+      "Olivia Wilson",
+      "Daniel Moore",
+      "Sophia Taylor",
+      "Matthew Anderson",
+      "Isabella Thomas"
+    ]
+  },
+  {
+    "code": "ar",
+    "name": "Арабский",
+    "names": [
+      "محمد العلي",
+      "فاطمة الزهراء",
+      "أحمد بن حسن",
+      "سارة خالد",
+      "عبدالله إبراهيم",
+      "نورة سعيد",
+      "يوسف محمود",
+      "عائشة أحمد",
+      "سعيد الحسن",
+      "ليلى عثمان"
+    ]
+  },
+  {
+    "code": "az",
+    "name": "Азербайджанский",
+    "names": [
+      "Али Мамедов",
+      "Leyla Əliyeva",
+      "Elvin Həsənov",
+      "Aysel Məmmədova",
+      "Rəşad Əliyev",
+      "Nigar Hüseynova",
+      "Murad Quliyev",
+      "Sabina Əliyeva",
+      "Tunar İsmayılov",
+      "Gülər İbrahimova"
+    ]
+  },
+  {
+    "code": "hy",
+    "name": "Армянский",
+    "names": [
+      "Արամ Սարգսյան",
+      "Մարիա Աղաջանյան",
+      "Գառնիկ Հովհաննիսյան",
+      "Անուշ Կարապետյան",
+      "Տիգրան Ավագյան",
+      "Նարինե Մկրտչյան",
+      "Արմեն Գևորգյան",
+      "Սաթենիկ Պողոսյան",
+      "Վարդան Նիկողոսյան",
+      "Գոհար Եղիազարյան"
+    ]
+  },
+  {
+    "code": "bn",
+    "name": "Бенгальский",
+    "names": [
+      "রফিকুল ইসলাম",
+      "সাবিনা আক্তার",
+      "মোঃ রহমান",
+      "লিডিয়া রহমান",
+      "রবি আহমেদ",
+      "জাহিদা খাতুন",
+      "তয়ফুর হোসেন",
+      "মিনতি বেগম",
+      "সৈদুর রহমান",
+      "ফারাহ অনাম"
+    ]
+  },
+  {
+    "code": "vi",
+    "name": "Вьетнамский",
+    "names": [
+      "Nguyễn Văn An",
+      "Trần Thị Lan",
+      "Lê Minh Hoàng",
+      "Phạm Thu Hương",
+      "Hoàng Anh Tuấn",
+      "Vũ Thị Mai",
+      "Đặng Quốc Vinh",
+      "Bùi Thị Hồng",
+      "Phan Thanh Bình",
+      "Dương Thị Nga"
+    ]
+  },
+  {
+    "code": "el",
+    "name": "Греческий",
+    "names": [
+      "Γιώργος Παπαδόπουλος",
+      "Μαρία Ιωάννου",
+      "Δημήτρης Κωνσταντίνου",
+      "Ελένη Χριστοφόρου",
+      "Νίκος Γεωργίου",
+      "Αικατερίνη Αντωνίου",
+      "Σταύρος Νικολάου",
+      "Ανδριάνα Σίμου",
+      "Σωτήρης Μαυρίδης",
+      "Ιωάννα Ανδρέου"
+    ]
+  },
+  {
+    "code": "ka",
+    "name": "Грузинский",
+    "names": [
+      "გიორგი მჭედლიშვილი",
+      "ნინო ქავთარაძე",
+      "თემურ ახვლედიანი",
+      "სოფო ბერიძე",
+      "ლუკა სარიშვილი",
+      "მარიამ მიორთვეძე",
+      "ზურაბ ჭელიძე",
+      "თათია ქოჩავა",
+      "ბექა შარაშიძე",
+      "თამარ კიკაჩაძე"
+    ]
+  },
+  {
+    "code": "da",
+    "name": "Датский",
+    "names": [
+      "Christian Jensen",
+      "Emma Nielsen",
+      "Mikkel Hansen",
+      "Ida Sørensen",
+      "Frederik Pedersen",
+      "Laura Larsen",
+      "Andreas Rasmussen",
+      "Sofie Mørk",
+      "Jonas Kristensen",
+      "Clara Bro"
+    ]
+  },
+  {
+    "code": "he",
+    "name": "Иврит",
+    "names": [
+      "יוסף כהן",
+      "מאיה לוי",
+      "דוד ישראלי",
+      "נועה בן־דוד",
+      "אבי מזרחי",
+      "רות אמיר",
+      "יובל ישראל",
+      "הילה פרידמן",
+      "איתמר ברק",
+      "שיר כהן"
+    ]
+  },
+  {
+    "code": "es",
+    "name": "Испанский",
+    "names": [
+      "Juan García",
+      "María Rodríguez",
+      "Carlos Martínez",
+      "Ana López",
+      "José Hernández",
+      "Laura Sánchez",
+      "Miguel Pérez",
+      "Carmen Gómez",
+      "David Ruiz",
+      "Elena Díaz"
+    ]
+  },
+  {
+    "code": "it",
+    "name": "Итальянский",
+    "names": [
+      "Luca Rossi",
+      "Martina Bianchi",
+      "Marco Ferrari",
+      "Giulia Esposito",
+      "Andrea Romano",
+      "Francesca Colombo",
+      "Matteo Ricci",
+      "Chiara Greco",
+      "Giovanni Bruno",
+      "Valentina Moretti"
+    ]
+  },
+  {
+    "code": "kk",
+    "name": "Казахский",
+    "names": [
+      "Нурлан Әлібегов",
+      "Айгүл Сұлтанова",
+      "Мұрат Өтемісұлы",
+      "Салтанат Әбдіразақова",
+      "Бейбарыс Тілеубаев",
+      "Гүлнар Қасымова",
+      "Арман Кәрім",
+      "Жансая Сайдолда",
+      "Ерлан Мұхамбетов",
+      "Айжан Баймұратова"
+    ]
+  },
+  {
+    "code": "zh",
+    "name": "Китайский",
+    "names": [
+      "王伟",
+      "李娜",
+      "张伟",
+      "刘洋",
+      "陈杰",
+      "杨洋",
+      "赵磊",
+      "黄婷婷",
+      "吴昊",
+      "周丽"
+    ]
+  },
+  {
+    "code": "ko",
+    "name": "Корейский",
+    "names": [
+      "김민준",
+      "이서연",
+      "박지훈",
+      "최윤서",
+      "정우진",
+      "강지민",
+      "조현우",
+      "윤아름",
+      "송민호",
+      "하은"
+    ]
+  },
+  {
+    "code": "lv",
+    "name": "Латвийский",
+    "names": [
+      "Jānis Bērziņš",
+      "Anna Ozoliņa",
+      "Mārtiņš Kalniņš",
+      "Līga Ziediņa",
+      "Kristaps Jansons",
+      "Inese Žeņa",
+      "Edgars Liepiņš",
+      "Elīna Grīnberga",
+      "Gints Āboliņš",
+      "Laura Lapiņa"
+    ]
+  },
+  {
+    "code": "lt",
+    "name": "Литовский",
+    "names": [
+      "Tomas Petrauskas",
+      "Ieva Kazlauskienė",
+      "Mantas Jankauskas",
+      "Rūta Bikulčienė",
+      "Darius Kavaliauskas",
+      "Eglė Paulauskaitė",
+      "Lukas Žukauskas",
+      "Agnė Giedraitė",
+      "Vytautas Stankevičius",
+      "Laura Bučinskaitė"
+    ]
+  },
+  {
+    "code": "mt",
+    "name": "Мальтийский",
+    "names": [
+      "Joseph Borg",
+      "Maria Camilleri",
+      "Andrew Vella",
+      "Claire Farrugia",
+      "Paul Xuereb",
+      "Anna Grech",
+      "Mark Zammit",
+      "Lisa Micallef",
+      "Michael Attard",
+      "Rebecca Debono"
+    ]
+  },
+  {
+    "code": "de",
+    "name": "Немецкий",
+    "names": [
+      "Lukas Müller",
+      "Anna Schmidt",
+      "Maximilian Schneider",
+      "Laura Fischer",
+      "Felix Weber",
+      "Julia Wagner",
+      "Leon Hoffmann",
+      "Sophie Bauer",
+      "Jonas Becker",
+      "Marie Koch"
+    ]
+  },
+  {
+    "code": "no",
+    "name": "Норвежский",
+    "names": [
+      "Ole Hansen",
+      "Ingrid Olsen",
+      "Lars Johansen",
+      "Emma Nilsen",
+      "Kristoffer Pedersen",
+      "Sofie Kristiansen",
+      "Magnus Berg",
+      "Nora Haugen",
+      "Anders Eriksen",
+      "Ida Dahl"
+    ]
+  },
+  {
+    "code": "fa",
+    "name": "Персидский",
+    "names": [
+      "محمد رضایی",
+      "زهرا محمدی",
+      "علی کریمی",
+      "نرگس قاسمی",
+      "رضا حسینی",
+      "مهسا یوسفی",
+      "سعید مظاهری",
+      "آرزو پاسبانی",
+      "وحید احمدی",
+      "فرزانه موسوی"
+    ]
+  },
+  {
+    "code": "pl",
+    "name": "Польский",
+    "names": [
+      "Jan Kowalski",
+      "Anna Nowak",
+      "Piotr Wiśniewski",
+      "Katarzyna Wójcik",
+      "Paweł Kowalczyk",
+      "Magdalena Kamińska",
+      "Michał Lewandowski",
+      "Monika Zielińska",
+      "Tomasz Szymański",
+      "Agnieszka Duda"
+    ]
+  },
+  {
+    "code": "pt",
+    "name": "Португальский",
+    "names": [
+      "João Silva",
+      "Maria Santos",
+      "Pedro Oliveira",
+      "Ana Ferreira",
+      "Miguel Costa",
+      "Sofia Pereira",
+      "Rui Almeida",
+      "Inês Rodrigues",
+      "José Marques",
+      "Beatriz Gomes"
+    ]
+  },
+  {
+    "code": "ru",
+    "name": "Русский",
+    "names": [
+      "Иван Иванов",
+      "Мария Смирнова",
+      "Алексей Кузнецов",
+      "Анна Попова",
+      "Дмитрий Соколов",
+      "Елена Лебедева",
+      "Сергей Новиков",
+      "Ольга Морозова",
+      "Николай Петров",
+      "Анастасия Волкова"
+    ]
+  },
+  {
+    "code": "ro",
+    "name": "Румынский",
+    "names": [
+      "Andrei Popescu",
+      "Maria Ionescu",
+      "Ion Gheorghe",
+      "Elena Stan",
+      "Mihai Dumitrescu",
+      "Ana Marinescu",
+      "George Nicolae",
+      "Ioana Radu",
+      "Cristian Pavel",
+      "Gabriela Tudor"
+    ]
+  },
+  {
+    "code": "sk",
+    "name": "Словацкий",
+    "names": [
+      "Peter Novák",
+      "Veronika Kováčová",
+      "Martin Horváth",
+      "Lucia Varga",
+      "Michal Šimek",
+      "Eva Mrázová",
+      "Tomáš Kováč",
+      "Martina Bartošová",
+      "Andrej Farkaš",
+      "Jana Bieliková"
+    ]
+  },
+  {
+    "code": "sl",
+    "name": "Словенский",
+    "names": [
+      "Janez Novak",
+      "Maja Kovač",
+      "Miha Horvat",
+      "Sara Zupan",
+      "Luka Kralj",
+      "Ana Petek",
+      "Matej Jurič",
+      "Nina Zupančič",
+      "Tomaž Kos",
+      "Katarina Vidmar"
+    ]
+  },
+  {
+    "code": "sw",
+    "name": "Суахили",
+    "names": [
+      "Juma Mohamed",
+      "Asha Said",
+      "Hassan Juma",
+      "Zainab Omar",
+      "Abdullah Mwinyi",
+      "Fatima Hassan",
+      "Mohammed Salim",
+      "Aminat Abdi",
+      "Issa Bakari",
+      "Halima Ali"
+    ]
+  },
+  {
+    "code": "th",
+    "name": "Тайский",
+    "names": [
+      "สมชาย ใจดี",
+      "อรทัย นามอ่อน",
+      "พงษ์ศักดิ์ สุขเกษม",
+      "สุนิสา แสนกล้า",
+      "วิทยา มากมี",
+      "จิตราภรณ์ ศรีทอง",
+      "อนุชา เกษมสุข",
+      "สุภาวดี ไชยวงศ์",
+      "ปกรณ์ ประเสริฐ",
+      "รัตนา นิลุบล"
+    ]
+  },
+  {
+    "code": "tr",
+    "name": "Турецкий",
+    "names": [
+      "Ahmet Yılmaz",
+      "Elif Demir",
+      "Mehmet Kaya",
+      "Zeynep Şahin",
+      "Mustafa Çelik",
+      "Fatma Aydın",
+      "Emre Yıldız",
+      "Leyla Özkan",
+      "Murat Koç",
+      "Seda Kaplan"
+    ]
+  },
+  {
+    "code": "uk",
+    "name": "Украинский",
+    "names": [
+      "Олександр Шевченко",
+      "Анна Ковальчук",
+      "Володимир Іваненко",
+      "Олена Петренко",
+      "Сергій Дмитренко",
+      "Катерина Бойко",
+      "Михайло Коваленко",
+      "Наталія Гончар",
+      "Ігор Орел",
+      "Юлія Василенко"
+    ]
+  },
+  {
+    "code": "ur",
+    "name": "Урду",
+    "names": [
+      "محمد احمد",
+      "عائشہ خان",
+      "علی رضا",
+      "فاطمہ علی",
+      "عبداللہ حسین",
+      "نور جہان",
+      "بشیر احمد",
+      "زینب محمود",
+      "احمد رضا",
+      "سارہ جبار"
+    ]
+  },
+  {
+    "code": "fi",
+    "name": "Финский",
+    "names": [
+      "Jukka Nieminen",
+      "Laura Korhonen",
+      "Mikko Virtanen",
+      "Anna Mäkinen",
+      "Antti Lehtonen",
+      "Marja Salonen",
+      "Petri Hämäläinen",
+      "Sari Laine",
+      "Juha Heikkinen",
+      "Tiina Koskinen"
+    ]
+  },
+  {
+    "code": "fr",
+    "name": "Французский",
+    "names": [
+      "Jean Dupont",
+      "Marie Martin",
+      "Pierre Bernard",
+      "Sophie Dubois",
+      "Luc Moreau",
+      "Camille Leroy",
+      "Antoine Garnier",
+      "Julie Fontaine",
+      "Thomas Rousseau",
+      "Emma Lambert"
+    ]
+  },
+  {
+    "code": "hi",
+    "name": "Хинди",
+    "names": [
+      "राहुल शर्मा",
+      "प्रीति कुमारी",
+      "अजय सिंह",
+      "सपना पटेल",
+      "विक्रम गुप्ता",
+      "नीलम वर्मा",
+      "सागर पांडेय",
+      "अनिता चौधरी",
+      "हरीश जोशी",
+      "रोहिणी मिश्रा"
+    ]
+  },
+  {
+    "code": "cs",
+    "name": "Чешский",
+    "names": [
+      "Jan Novák",
+      "Anna Svobodová",
+      "Petr Černý",
+      "Marie Kučová",
+      "Tomáš Dvořák",
+      "Eva Procházková",
+      "Jakub Horák",
+      "Lucie Veselá",
+      "Marek Němec",
+      "Katka Růžičková"
+    ]
+  },
+  {
+    "code": "sv",
+    "name": "Шведский",
+    "names": [
+      "Lars Andersson",
+      "Anna Johansson",
+      "Erik Karlsson",
+      "Emma Lindberg",
+      "Andreas Svensson",
+      "Sara Bergström",
+      "Mikael Nilsson",
+      "Ida Eriksson",
+      "Oskar Persson",
+      "Malin Lund"
+    ]
+  },
+  {
+    "code": "et",
+    "name": "Эстонский",
+    "names": [
+      "Jaan Tamm",
+      "Liis Kask",
+      "Mart Saar",
+      "Maarja Reimann",
+      "Kristjan Mets",
+      "Anu Leht",
+      "Raimo Ploom",
+      "Evelin Kalju",
+      "Toomas Rand",
+      "Kaia Oja"
+    ]
+  },
+  {
+    "code": "ja",
+    "name": "Японский",
+    "names": [
+      "佐藤 健",
+      "鈴木 美咲",
+      "高橋 大輔",
+      "田中 玲子",
+      "山本 健太",
+      "伊藤 優子",
+      "中村 翔",
+      "小林 彩",
+      "加藤 翔太",
+      "吉田 真希"
+    ]
+  }
+]
